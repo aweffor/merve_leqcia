@@ -1,0 +1,26 @@
+.dark{
+  background-color: black;
+  color: white;
+  height: 1200px;
+}
+
+.light{
+  background-color: white;
+  color: black;
+}
+
+.icon{
+  float: left;
+}
+li{
+  list-style: none;
+  display: inline-block;
+  padding-left:  100px;
+  
+}
+nav{
+  text-align: center;
+  border: 1px solid rgb(231, 202, 207);
+  background-color: rgb(231, 202, 207);
+  position: relative;
+}
